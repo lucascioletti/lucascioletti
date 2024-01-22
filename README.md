@@ -1,10 +1,16 @@
 
-<h1>Olá, um prazer ter você aqui</h1>
+<h1>Olá, um prazer ter você aqui!</h1>
+
+<ul>
+  <li>Hoje estudo na UFJF, cursando Ciências Exatas🎒</li>
+  <li>Aprendendo Front-end😀</li>
+  <li>Descobrindo como programar🚀</li>
+</ul>
 
 <div>  
   <a href="https://github.com/lucascioletti">
-  <img height="160cm" src="https://github-readme-stats.vercel.app/api?username=lucascioletti&show_icons=true&theme=dark">
-  <img height="100cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascioletti&hide_progress=true">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=lucascioletti&show_icons=true&theme=dark">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascioletti&hide_progress=true">
 </div>
   <h2>Aprendizado:</h2>
 <div style="display: inline_block"><br>
