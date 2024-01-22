@@ -19,5 +19,6 @@
 </div>
   <h2>Contato:</h2>
 <div>  
-  <a href = "mailto:lucas.cioletti@proton.me"><img align="center" alt="lucas-mail" height="40" width="190" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
+  <a href = "mailto:lucas.cioletti@proton.me"><img align="center" alt="lucas-mail" height="40" width="135" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
+  <a href = "https://www.linkedin.com/in/lucas-fernandes-cioletti-aa8b812ab/"><img align="center" alt="lucas-mail" height="40" width="135" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
