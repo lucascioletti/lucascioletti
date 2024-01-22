@@ -13,5 +13,5 @@
 </div>
   <h2>Contato:</h2>
 <div>  
-  <a href = "mailto:lucas.cioletti@proton.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
+  <a href = "mailto:lucas.cioletti@proton.me"><img align="center" alt="lucas-mail" height="40" width="90" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
 </div>
